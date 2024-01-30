@@ -2831,15 +2831,15 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #3c3c3c;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #3c3c3c;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #3c3c3c;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
