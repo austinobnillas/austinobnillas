@@ -2845,7 +2845,6 @@ input, select, textarea {
 			.tiles article:nth-child(6n - 2):before {
 				background-color: #3c3c3c;
 			}
-
 			.tiles article:nth-child(6n - 1):before {
 				background-color: #8ea9e8;
 			}
