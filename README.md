@@ -3,6 +3,12 @@
 Full Stack Software Engineer
 
 # Technical Projects 
+## AnimeClub  - Full Stack Developer
+### ReactJS, Python-FastAPI, MySQL 
+**Anime Information Website with custom AnimeLists**
+- Utilized Python FastAPI framework to efficiently build out an API taking advantage of it’s high performance, built in data validation, and ease of use.
+- Designed a full database using MySQL and MySQL workbench to handle complex relationships between data.
+- Employed a React.JS front end to take advantage of the component-based architecture and the virtual DOM which allowed for high performance, responsive web pages, and a smooth UI experience
 ## MyWatchList  - Full Stack Developer
 ### ReactJS, Python-FlaskAPI, MySQL 
 **Show/movie tracking application for personal use.**
